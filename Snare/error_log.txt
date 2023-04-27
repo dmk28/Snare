@@ -1,0 +1,7 @@
+Couldn't connect to named pipe
+Couldn't connect to named pipe
+Couldn't connect to named pipe
+Couldn't connect to the socket
+Couldn't connect to the socket
+Couldn't connect to the socket
+Couldn't connect to the socket
